@@ -1,6 +1,8 @@
-<h1 align="center">Toll</h1>
+<p align="center"><a href="https://t0ll.xyz"><img src="assets/toll-banner.svg" width="100%" alt="Toll: requests stream into the gate and come out stamped ALLOW, WARN, BLOCK or WAIT"/></a></p>
 
 <p align="center"><b>the safety layer for agentic finance on Robinhood Chain (chain 4663).</b><br/>the check an AI agent calls before it buys, signs or pays. chain facts, not advice.</p>
+
+<p align="center"><img src="assets/toll-stats.svg" width="100%" alt="28 MCP tools, 4 contracts live, 3 ERC drafts, 11 agent templates"/></p>
 
 <p align="center">
 <a href="https://t0ll.xyz">t0ll.xyz</a> · <a href="https://t0ll.xyz/agents/mcp">remote MCP</a> · <a href="https://x402.t0ll.xyz">x402 facilitator</a> · <a href="https://x.com/Tollxyz_">X @Tollxyz_</a> · ERC-8004 agent #20030
