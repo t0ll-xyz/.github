@@ -8,6 +8,8 @@
 <a href="https://t0ll.xyz">t0ll.xyz</a> · <a href="https://t0ll.xyz/agents/mcp">remote MCP</a> · <a href="https://x402.t0ll.xyz">x402 facilitator</a> · <a href="https://x.com/Tollxyz_">X @Tollxyz_</a> · ERC-8004 agent #20030
 </p>
 
+<p align="center"><img src="assets/toll-map.svg" width="100%" alt="Everything Toll does: check, sign, pay, build, watch: 25 parts, all live on Robinhood Chain"/></p>
+
 ### live now
 
 | | |
