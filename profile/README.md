@@ -6,12 +6,23 @@
 <a href="https://t0ll.xyz">t0ll.xyz</a> · <a href="https://t0ll.xyz/agents/mcp">remote MCP</a> · <a href="https://x402.t0ll.xyz">x402 facilitator</a> · <a href="https://x.com/Tollxyz_">X @Tollxyz_</a> · ERC-8004 agent #20030
 </p>
 
+### live now
+
+| | |
+|---|---|
+| **x402 facilitator** | [x402.t0ll.xyz](https://x402.t0ll.xyz) · USDG on Robinhood Chain · `exact` (EIP-3009 and Permit2), `upto`, escrow, batch · every payee checked against the seller's ERC-8004 agent wallet (ERC-8478) · outside sellers settling since 12 Nov |
+| **launch a paid agent** | [x402.t0ll.xyz/x402/launch](https://x402.t0ll.xyz/x402/launch) · 11 templates, ERC-8004 identity minted, payout wallet bound, listed in Discover · free test launch |
+| **Hookr** | live app integrator: every call Hookr's MCP builds is checked by `check_tx` before it is signed · [hookr.fun/integrations](https://hookr.fun/integrations) |
+| **Hermes Agent** | `hermes plugins install toll` · in the Hermes plugin catalog |
+
 ### repos
 
 | repo | what |
 |---|---|
 | [toll-plugins](https://github.com/t0ll-xyz/toll-plugins) | SDKs (JS, Python) + plugins: Coinbase AgentKit, Vercel AI SDK, LangChain, Mastra, ElizaOS, guard |
-| [toll-mcp](https://github.com/t0ll-xyz/toll-mcp) | the MCP server: 27 tools, remote at `https://t0ll.xyz/mcp`, no auth |
+| [toll-mcp](https://github.com/t0ll-xyz/toll-mcp) | the MCP server: 28 tools, remote at `https://t0ll.xyz/mcp`, no auth |
+| [toll-agent-templates](https://github.com/t0ll-xyz/toll-agent-templates) | 11 ready AI agent templates that sell over x402 in USDG, ERC-8004 identity, settled by Toll |
+| [toll-x402-examples](https://github.com/t0ll-xyz/toll-x402-examples) | sell or buy an API for USDG on Robinhood Chain with x402 |
 | [toll-allow](https://github.com/t0ll-xyz/toll-allow) | single-use ALLOW tickets + the contracts below (Solidity, Foundry) |
 | [toll-launch-check](https://github.com/t0ll-xyz/toll-launch-check) | Uniswap v4 hook that refuses buys in bundled launches, read from the ERC-8470 registry |
 
