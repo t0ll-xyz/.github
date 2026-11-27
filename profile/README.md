@@ -10,6 +10,40 @@
 
 <p align="center"><img src="assets/toll-map.svg" width="100%" alt="Everything Toll does: check, sign, pay, build, watch: 25 parts, all live on Robinhood Chain"/></p>
 
+### Toll in numbers
+
+live from Toll's engine on Robinhood Chain, redrawn every night at 00:40 UTC.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/stats-light.svg">
+  <img alt="What Toll has read so far: coins checked, launches in the last 7 days, ERC-8004 agents, v4 hooks" src="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/stats-dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/agents-planet-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/agents-planet-light.svg">
+  <img alt="Every ERC-8004 agent on Robinhood Chain as a turning globe, coloured by what Toll could read from its payee" src="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/agents-planet-dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/launch-city-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/launch-city-light.svg">
+  <img alt="Launches by launchpad in the last 7 days as an isometric city, each tower coloured by Toll's call" src="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/launch-city-dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/launch-clock-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/launch-clock-light.svg">
+  <img alt="When Robinhood Chain launches: launches by weekday and hour UTC over the last 30 days" src="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/launch-clock-dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/hooks-donut-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/hooks-donut-light.svg">
+  <img alt="Uniswap v4 hooks on Robinhood Chain by what their code lets them do" src="https://raw.githubusercontent.com/soli0x/soli0x/main/assets/charts/hooks-donut-dark.svg" width="100%">
+</picture>
+
 ### live now
 
 | | |
