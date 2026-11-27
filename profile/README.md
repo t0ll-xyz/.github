@@ -77,6 +77,6 @@ source verified on Sourcify (exact match), no owner, no admin.
 
 ### standards
 
-ERC drafts at [ethereum/ERCs](https://github.com/ethereum/ERCs): ERC-8470 Token Launch Observations ([#2121](https://github.com/ethereum/ERCs/pull/2121)), ERC-8478 x402 Payee Verification ([#2132](https://github.com/ethereum/ERCs/pull/2132)), ERC-8481 Agent Pre-Sign Risk Report ([#2134](https://github.com/ethereum/ERCs/pull/2134)), ERC-8509 Agent Linkability Report ([#2193](https://github.com/ethereum/ERCs/pull/2193)). all in editor review, all running in Toll today.
+4 ERCs merged into [ethereum/ERCs](https://github.com/ethereum/ERCs) as Draft (27 Nov 2026): [ERC-8470](https://github.com/ethereum/ERCs/blob/master/ERCS/erc-8470.md) Token Launch Observations, [ERC-8478](https://github.com/ethereum/ERCs/blob/master/ERCS/erc-8478.md) x402 Payee Verification, [ERC-8481](https://github.com/ethereum/ERCs/blob/master/ERCS/erc-8481.md) Agent Pre-Sign Risk Report, [ERC-8509](https://github.com/ethereum/ERCs/blob/master/ERCS/erc-8509.md) Agent Linkability Report. all four running in Toll today.
 
 <sub>contact: T0llxyz@outlook.com</sub>
