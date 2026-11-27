@@ -1,8 +1,8 @@
 <p align="center"><a href="https://t0ll.xyz"><img src="assets/toll-banner.svg" width="100%" alt="Toll: requests stream into the gate and come out stamped ALLOW, WARN, BLOCK or WAIT"/></a></p>
 
-<p align="center"><b>the safety layer for agentic finance on Robinhood Chain (chain 4663).</b><br/>the check an AI agent calls before it buys, signs or pays. chain facts, not advice.</p>
+<p align="center"><b>the safety layer for agentic finance on Robinhood Chain (chain 4663), with coin checks on Solana too.</b><br/>the check an AI agent calls before it buys, signs or pays. chain facts, not advice.</p>
 
-<p align="center"><img src="assets/toll-stats.svg" width="100%" alt="28 MCP tools, 4 contracts live, 3 ERC drafts, 11 agent templates"/></p>
+<p align="center"><img src="assets/toll-stats.svg" width="100%" alt="33 MCP tools, 4 contracts live, 4 ERC drafts, 11 agent templates"/></p>
 
 <p align="center">
 <a href="https://t0ll.xyz">t0ll.xyz</a> · <a href="https://t0ll.xyz/agents/mcp">remote MCP</a> · <a href="https://x402.t0ll.xyz">x402 facilitator</a> · <a href="https://x.com/Tollxyz_">X @Tollxyz_</a> · ERC-8004 agent #20030
@@ -24,7 +24,7 @@
 | repo | what |
 |---|---|
 | [toll-plugins](https://github.com/t0ll-xyz/toll-plugins) | SDKs (JS, Python) + plugins: Coinbase AgentKit, Vercel AI SDK, LangChain, Mastra, ElizaOS, guard |
-| [toll-mcp](https://github.com/t0ll-xyz/toll-mcp) | the MCP server: 28 tools, remote at `https://t0ll.xyz/mcp`, no auth |
+| [toll-mcp](https://github.com/t0ll-xyz/toll-mcp) | the MCP server: 33 tools, remote at `https://t0ll.xyz/mcp`, no auth |
 | [toll-agent-templates](https://github.com/t0ll-xyz/toll-agent-templates) | 11 ready AI agent templates that sell over x402 in USDG, ERC-8004 identity, settled by Toll |
 | [toll-x402-examples](https://github.com/t0ll-xyz/toll-x402-examples) | sell or buy an API for USDG on Robinhood Chain with x402 |
 | [toll-allow](https://github.com/t0ll-xyz/toll-allow) | single-use ALLOW tickets + the contracts below (Solidity, Foundry) |
@@ -43,6 +43,6 @@ source verified on Sourcify (exact match), no owner, no admin.
 
 ### standards
 
-ERC drafts at [ethereum/ERCs](https://github.com/ethereum/ERCs): ERC-8470 Token Launch Observations ([#2121](https://github.com/ethereum/ERCs/pull/2121)), ERC-8478 x402 Payee Verification ([#2132](https://github.com/ethereum/ERCs/pull/2132)), ERC-8481 Agent Pre-Sign Risk Report ([#2134](https://github.com/ethereum/ERCs/pull/2134)). all running in Toll today.
+ERC drafts at [ethereum/ERCs](https://github.com/ethereum/ERCs): ERC-8470 Token Launch Observations ([#2121](https://github.com/ethereum/ERCs/pull/2121)), ERC-8478 x402 Payee Verification ([#2132](https://github.com/ethereum/ERCs/pull/2132)), ERC-8481 Agent Pre-Sign Risk Report ([#2134](https://github.com/ethereum/ERCs/pull/2134)), ERC-8509 Agent Linkability Report ([#2193](https://github.com/ethereum/ERCs/pull/2193)). all in editor review, all running in Toll today.
 
 <sub>contact: T0llxyz@outlook.com</sub>
